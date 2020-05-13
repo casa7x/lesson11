@@ -3,6 +3,8 @@ let user = {
     age: 88
 };
 
+console.log(user);
+
 
 
 
